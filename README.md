@@ -1,7 +1,10 @@
 **(This is the repository for our COGS 181 (Neural Networks & Deep Learning) Final Project)**
 
-**Contributors: 1) Qasim Mudassar,
-                2) Elvis Smith**
+**
+Contributors: 
+1) Qasim Mudassar
+2) Elvis Smith
+**
 
 # Utilizing CNNs to detect and differentiate AI-Generated Faced from Real Human Faces
 
