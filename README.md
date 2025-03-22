@@ -10,7 +10,9 @@ This project aims to develop a Convolutional Neural Network (CNN) to differentia
 
 ### Datasets:
 1) Flickr-Faces-HQ (FFHQ) dataset of 70,000 real human faces reduced to 10,000 randomly selected faces for training/validation.
-2) thispersondoesnotexist.com dataset of 10,000 AI-Generated human faces.
+   https://datasets.activeloop.ai/docs/ml/datasets/ffhq-dataset/#:~:text=The%20FFHQ%20Dataset%20(Flickr%2DFaces,of%20different%20ages%20and%20ethnicity.
+3) thispersondoesnotexist.com dataset of 10,000 AI-Generated human faces.
+   https://www.kaggle.com/datasets/almightyj/person-face-dataset-thispersondoesnotexist
 
 ### CNN Model:
 1) Xception
