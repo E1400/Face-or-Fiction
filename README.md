@@ -1,4 +1,3 @@
-**(This is the repository for our COGS 181 - Neural Networks & Deep Learning - Final Project)**
 
 **Contributors:**
 1) Qasim Mudassar
